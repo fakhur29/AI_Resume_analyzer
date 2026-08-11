@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Specific files to ignore
+descrioption.txt
+test.py
+
+# Personal files (optional)
+*.docx
+*.pdf
