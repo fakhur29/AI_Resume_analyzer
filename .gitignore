@@ -10,3 +10,4 @@ test.py
 # Personal files (optional)
 *.docx
 *.pdf
+.streamlit/secrets.toml
