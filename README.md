@@ -3,6 +3,10 @@
 > **An AI-powered ATS (Applicant Tracking System) resume analyzer that compares a resume against a job description — across any professional field (IT, Engineering, Healthcare, Marketing, etc.) — and reports a match score, matched/missing skills by category, and improvement suggestions.**
 
 ---
+## Main screen
+
+![Main screen](./assets/main_screen.PNG)
+---
 
 ## ✨ Features
 
